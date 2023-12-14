@@ -1,2 +1,2 @@
 # Threads
-Thread APIs
+Thread API basics.
